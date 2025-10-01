@@ -1,0 +1,55 @@
+{
+  "theme": {
+    "en": "Love",
+    "pt": "Amor"
+  },
+  "related_themes": [],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "God’s love for humanity",
+        "pt": "O amor de Deus pela humanidade"
+      },
+      "emoji": "❤️",
+      "verses": [
+        "John 3:16",
+        "Romans 5:8"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Love for others",
+        "pt": "Amor ao próximo"
+      },
+      "emoji": "🤝",
+      "verses": [
+        "Matthew 22:37-39",
+        "John 13:34-35"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Sacrificial love",
+        "pt": "Amor sacrificial"
+      },
+      "emoji": "✝️",
+      "verses": [
+        "Ephesians 5:2",
+        "John 15:13"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Love as a commandment and way of life",
+        "pt": "Amor como mandamento e estilo de vida"
+      },
+      "emoji": "🌟",
+      "verses": [
+        "Matthew 5:44",
+        "Romans 12:9-10",
+        "Colossians 3:14"
+      ]
+    }
+  ]
+}

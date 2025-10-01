@@ -1,0 +1,44 @@
+[
+  {
+    "theme": {
+      "en": "Angels",
+      "pt": "Anjos"
+    },
+    "total_verses": 39
+  },
+  {
+    "theme": {
+      "en": "Animals",
+      "pt": "Animais"
+    },
+    "total_verses": 25
+  },
+  {
+    "theme": {
+      "en": "Cross",
+      "pt": "Cruz"
+    },
+    "total_verses": 10
+  },
+  {
+    "theme": {
+      "en": "Love",
+      "pt": "Amor"
+    },
+    "total_verses": 13
+  },
+  {
+    "theme": {
+      "en": "Rain",
+      "pt": "Chuva"
+    },
+    "total_verses": 12
+  },
+  {
+    "theme": {
+      "en": "Work",
+      "pt": "Trabalho"
+    },
+    "total_verses": 28
+  }
+]

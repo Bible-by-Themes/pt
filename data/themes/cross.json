@@ -1,0 +1,54 @@
+{
+  "theme": {
+    "en": "Cross",
+    "pt": "Cruz"
+  },
+  "related_themes": ["jesus", "salvation", "sacrifice"],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "Jesus’ sacrifice",
+        "pt": "Sacrifício de Jesus"
+      },
+      "emoji": "✝️",
+      "verses": [
+        "John 19:16-18",
+        "Romans 5:8"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Salvation through the cross",
+        "pt": "Salvação através da cruz"
+      },
+      "emoji": "🕊",
+      "verses": [
+        "Ephesians 2:16",
+        "Colossians 1:20"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Taking up the cross",
+        "pt": "Tomar a cruz"
+      },
+      "emoji": "💪",
+      "verses": [
+        "Matthew 16:24",
+        "Luke 9:23",
+        "Mark 8:34"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "The cross as a symbol",
+        "pt": "A cruz como símbolo"
+      },
+      "emoji": "🌟",
+      "verses": [
+        "Galatians 6:14"
+      ]
+    }
+  ]
+}

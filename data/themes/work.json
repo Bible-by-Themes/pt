@@ -1,0 +1,55 @@
+{
+  "theme": {
+    "en": "Work",
+    "pt": "Trabalho"
+  },
+  "related_themes": ["rest"],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "Diligence and hard work",
+        "pt": "Diligência e trabalho árduo"
+      },
+      "emoji": "💪",
+      "verses": [
+        "Proverbs 12:24",
+        "Colossians 3:23",
+        "Proverbs 14:23"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Work as service to God",
+        "pt": "Trabalho como serviço a Deus"
+      },
+      "emoji": "🙏",
+      "verses": [
+        "Ephesians 6:7",
+        "Colossians 3:17"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Provision and stewardship",
+        "pt": "Provisão e administração"
+      },
+      "emoji": "🌾",
+      "verses": [
+        "Proverbs 6:6-8",
+        "Matthew 25:14-30"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Work and helping others",
+        "pt": "Trabalho e ajuda ao próximo"
+      },
+      "emoji": "🤝",
+      "verses": [
+        "Galatians 6:9-10",
+        "Acts 20:35"
+      ]
+    }
+  ]
+}

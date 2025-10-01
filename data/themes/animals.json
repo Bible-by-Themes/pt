@@ -1,0 +1,63 @@
+{
+  "theme": {
+    "en": "Animals",
+    "pt": "Animais"
+  },
+  "related_themes": ["pigs", "fish", "lions", "sheep"],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "Animals as part of God's creation",
+        "pt": "Animais como parte da criação de Deus"
+      },
+      "emoji": "🌱",
+      "verses": [
+        "Genesis 1:24-25",
+        "Psalm 104:24-25",
+        "Genesis 2:19",
+        "Job 12:7-10"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Animals as symbols or examples",
+        "pt": "Animais como símbolos ou exemplos"
+      },
+      "emoji": "🐑",
+      "verses": [
+        "Isaiah 11:6-7",
+        "Matthew 10:29",
+        "Proverbs 12:10",
+        "Matthew 21:12",
+        "Luke 15:4-6"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "God’s care for animals",
+        "pt": "Cuidado de Deus pelos animais"
+      },
+      "emoji": "🛡",
+      "verses": [
+        "Matthew 6:26",
+        "Psalm 36:6",
+        "Psalm 145:9",
+        "Proverbs 27:23"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Animals in miracles and stories",
+        "pt": "Animais em milagres e histórias"
+      },
+      "emoji": "🌊",
+      "verses": [
+        "Jonah 1:17",
+        "John 21:6",
+        "Matthew 17:27",
+        "Daniel 6:22"
+      ]
+    }
+  ]
+}

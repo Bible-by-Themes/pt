@@ -1,0 +1,58 @@
+{
+  "theme": {
+    "en": "Angels",
+    "pt": "Anjos"
+  },
+  "related_themes": ["demons"],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "Angels as messengers",
+        "pt": "Anjos como mensageiros"
+      },
+      "emoji": "📩",
+      "verses": [
+        "Luke 1:26-38",
+        "Matthew 1:20",
+        "Daniel 9:21-23"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Angels as protectors",
+        "pt": "Anjos como protetores"
+      },
+      "emoji": "🛡",
+      "verses": [
+        "Psalm 91:11-12",
+        "Daniel 6:22",
+        "Acts 12:7-11"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Angels in visions and encounters",
+        "pt": "Anjos em visões e encontros"
+      },
+      "emoji": "👀",
+      "verses": [
+        "Revelation 1:1-2",
+        "Genesis 28:12",
+        "Matthew 28:2-7"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Symbolic roles of angels",
+        "pt": "Papéis simbólicos dos anjos"
+      },
+      "emoji": "🌟",
+      "verses": [
+        "Hebrews 1:14",
+        "Revelation 5:11-12",
+        "Psalm 103:20-21"
+      ]
+    }
+  ]
+}

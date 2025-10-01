@@ -1,0 +1,58 @@
+{
+  "theme": {
+    "en": "Rain",
+    "pt": "Chuva"
+  },
+  "related_themes": [],
+  "verses": [],
+  "subthemes": [
+    {
+      "subtheme": {
+        "en": "Rain as provision and blessing",
+        "pt": "Chuva como provisão e bênção"
+      },
+      "emoji": "🌧️",
+      "verses": [
+        "Deuteronomy 11:14",
+        "Joel 2:23",
+        "Acts 14:17"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Rain for spiritual renewal",
+        "pt": "Chuva para renovação espiritual"
+      },
+      "emoji": "💧",
+      "verses": [
+        "Ezekiel 34:26",
+        "Isaiah 44:3",
+        "Hosea 6:3"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Rain as judgment",
+        "pt": "Chuva como julgamento"
+      },
+      "emoji": "⛈️",
+      "verses": [
+        "Genesis 7:12",
+        "Psalm 11:6",
+        "Amos 4:7"
+      ]
+    },
+    {
+      "subtheme": {
+        "en": "Rain in parables and symbolism",
+        "pt": "Chuva em parábolas e simbolismo"
+      },
+      "emoji": "🌦️",
+      "verses": [
+        "Matthew 5:45",
+        "James 5:7",
+        "Deuteronomy 28:12"
+      ]
+    }
+  ]
+}
